@@ -1,6 +1,4 @@
-#Hi this is a test git repository document
-
-#Hello to add
+#Hi this is a git remote repository document NOW
 
 #hello world
 
